@@ -1,5 +1,8 @@
-# init_steganography
+init_steganographie
 
-rebuilding an old projet from scratch
+rebuilding an old project from scratch
 
-goal == hide a texte inside an image using a key
+subgoal1 == hide text in image with key
+done but needs to be tested
+
+subgoal2 == create the necessary user interface
